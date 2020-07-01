@@ -9,10 +9,14 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+<<<<<<< HEAD
     "http-auth": "3.2.3",
     "jade": "^1.11.0"
+=======
+    "pug": "^2.0.0-rc.4"
+>>>>>>> 01123f3f98b3e8ce4a7d0268da95b06326003e40
   },
   "engines": {
-    "node": "8.9.4"
+    "node": "~10"
   }
 }
